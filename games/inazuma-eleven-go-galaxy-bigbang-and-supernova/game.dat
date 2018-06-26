@@ -5,6 +5,10 @@ needs_shared_font = true
 
 [[releases]]
 title = "000400000010BB00"
+region = "jpn"
+release_date = "2013-12-05"
+
+[[releases]]
 title = "000400000010BA00"
 region = "jpn"
 release_date = "2013-12-05"
